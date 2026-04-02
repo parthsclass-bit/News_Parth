@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Free News Aggregator</title>
+    <style> body { font-family: Arial; max-width: 1200px; margin: auto; padding: 20px; } h1 { color: #333; } </style>
+</head>
+<body>
+    <h1>Personalized News Feeds</h1>
+    <p>Auto-updating from my favorite sites.</p>
+    <!-- Paste your SociableKIT embed code here -->
+   <div class="sk-ww-rss-feed" data-embed-id="25669133"></div><script src="https://widgets.sociablekit.com/rss-feed/widget.js" defer></script>
+</body>
+</html>
